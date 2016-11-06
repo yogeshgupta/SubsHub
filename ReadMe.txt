@@ -1,4 +1,4 @@
-﻿										-----Spectrum V1.1 Read Me ----
+﻿										-----SubsHub V1.1.3 Read Me ----
 About~
 
 Thanks for download SubsHub .This is the first release and hence the basic.
