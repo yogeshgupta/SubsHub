@@ -1,0 +1,27 @@
+﻿										-----Spectrum V1.0 Read Me ----
+About~
+
+Thanks for download SubsHub .This is the first release and hence the basic.
+You can download the subtitles of any movie or sitcom by the use of SubHub.Subtitle will be saved in the same
+directory as of the movie and with the same name as of the movie
+
+Requirments~
+Dot Net Framework 4.0
+
+How To Use~
+
+SubsHub uses simple UI making it easy even for novice computer user.
+
+Select the option of folder if you want to select a folder,where multiple video files are present and you want to get the 
+subtitles for all the video files in a single instance.It is to be noted that the subhub will get you the subtitles of video files also present in the
+subdirectory of the folder selected. Please note that currently you can only get the subs of video file with .avi extension
+by using this method.We are currently working to get more video extensions working by using this approach.Though if you will
+select those files individually you might will be able to get the subs for them.Please see below how to do that.
+
+If you want to get a subtitle for a single file select the file option ,even if you will not by default you will be able to
+select a file .This method supports multiple file extensions,though you will need to go inside the specific directory where 
+your video file is present and select that video file .
+
+For further queries and ideas you can contact me on : gyogesh4@gmail.com
+You can support us by making some donations.
+
